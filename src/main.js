@@ -5,6 +5,8 @@ import store from './store'
 import MyModal from './plugin'
 import VueI18n from 'vue-i18n'
 
+console.log('jekins')
+
 const i18n = VueI18n.createI18n({
   locale: 'cn',
   messages: {
