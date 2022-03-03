@@ -1,0 +1,2 @@
+# mini_test_system_vue2
+这是一个用来测试vue2的最小系统
